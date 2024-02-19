@@ -1,7 +1,7 @@
-<h1 align="center">hiii</a> :smile_cat: :white_flower: <br>
-<img src="https://i.pinimg.com/564x/79/55/68/795568ee5a2fa987fa93290ff43f72d6.jpg" width="150" height="150"><br>
+<h1 align="center">:smile_cat:
+<img src="https://i.pinimg.com/564x/79/55/68/795568ee5a2fa987fa93290ff43f72d6.jpg" width="150" height="150"> :white_flower:<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwshel&layout=compact"/>
-<img src="https://leetcode-stats-six.vercel.app/api?username=iwshel&theme=dark"/>
+<img src="https://leetcode-stats-six.vercel.app/api?username=iwshel&theme=dark"/></h1>
  
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
