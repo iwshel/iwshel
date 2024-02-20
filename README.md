@@ -28,3 +28,7 @@ Linux                    3 hrs 17 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 
  Last Updated on 20/02/2024 18:32:18 UTC
 <!--END_SECTION:waka-->
+
+<h1 align="center"><img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,java,django,docker,git,html,css,linux"/>
+<img src="https://cdn-icons-png.flaticon.com/512/588/588267.png" width="45" height="45">
+</h1>
