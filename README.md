@@ -8,18 +8,17 @@
 
 ```text
 💬 Programming Languages: 
-Java                     0 secs              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   98.26 % 
-Kotlin                   0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.74 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Intellijidea             0 secs              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 21/04/2024 18:30:34 UTC
+ Last Updated on 22/04/2024 18:30:50 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center"><img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,java,django,docker,git,html,css,linux"/>
