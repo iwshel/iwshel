@@ -7,17 +7,18 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   11 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   99.99 % 
+PythonStub               0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  11 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      11 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 
- Last Updated on 03/09/2025 18:40:51 UTC
+ Last Updated on 04/09/2025 18:42:51 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center"><img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,java,python,docker,git,html,css,linux,mongo"/>
